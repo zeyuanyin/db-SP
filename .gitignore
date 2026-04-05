@@ -4,3 +4,4 @@
 *.pth
 *.pt
 sparse_expanded.pth
+*cache*/
